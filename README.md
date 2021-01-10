@@ -6,6 +6,8 @@
 > [Cytosu]() ([GSculerlor](https://github.com/GSculerlor)) - `git clone --recurse-submodules https://github.com/GSculerlor/Cytosu`
 >> [Cytosu](https://github.com/GSculerlor/Cytosu/tree/dev-rework) ([GSculerlor](https://github.com/GSculerlor)) [Rework] - `git clone --recurse-submodules --branch dev-rework https://github.com/GSculerlor/Cytosu`
 
+> [FlashVoltex](https://github.com/stupefaction02/FlashVoltex) ([StupeFaction](https://github.com/stupefaction02)) - `git clone --recurse-submodules https://github.com/stupefaction02/FlashVoltex`
+
 > [Gamebosu](https://github.com/Game4all/gamebosu) ([Game4all](https://github.com/Game4all)) - `git clone --recurse-submodules https://github.com/Game4all/gamebosu`
 
 > [Hashigata](https://github.com/LumpBloom7/hishigata) ([LumpBloom7](https://github.com/LumpBloom7)) - `git clone --recurse-submodules https://github.com/LumpBloom7/hishigata`
