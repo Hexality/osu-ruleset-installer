@@ -1,12 +1,12 @@
-<!--Installer and updater script to be uploaded to the repo.
-> 1. Create a folder called ruleset_updater inside %appdata%\osu!lazer (Windows) 
-> 2. Move the 3 files to that folder.
-> 3. Double-click the Install.ps1 if it's your first time using it.
-> 4. Use the Update.ps1 when its needed.
->> You can delete the Install.ps1 after using it for the first time if u want :D -->
+## **Installer and updater script to be uploaded to the repo.**
+> **1. Create a folder called ruleset_updater inside %appdata%\osu!lazer (Windows)**
+> **2. Move the 4 files to that folder.**
+> **3. Double-click the "Ruleset Installer" shortcut if it's your first time using the script.**
+> **4. Use the Update.ps1 when its needed.**
+>> **You can delete the Install.ps1 after using it for the first time if u want :D**
 
 
-# A list of osu!lazer rulesets: (Included on the script)
+### A list of osu!lazer rulesets: (Included on the script)
 
 
 > [Bosu](https://github.com/EVAST9919/bosu) ([EV4ST](https://github.com/EVAST9919)) - `git clone --recurse-submodules https://github.com/EVAST9919/bosu`
