@@ -1,4 +1,4 @@
-## **Installer and updater script to be uploaded to the repo.**
+## **Installer and Updater (Compile commands).**
 >> **1. Create a folder called ruleset_updater inside %appdata%\osu!lazer (Windows)**
 
 >> **2. Move the 4 files to that folder.**
