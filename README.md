@@ -7,7 +7,7 @@
 
 >> **4. Double-click the "Ruleset Installer" shortcut if it's your first time using the script.**
 
->> **5. Use the Update short when its needed.**
+>> **5. Use the Update shortcut when its needed.**
 
 >> **You can delete the Install.ps1 after using it for the first time if u want :D**
 
