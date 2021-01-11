@@ -43,3 +43,6 @@
 > ~~[Solosu](https://github.com/Coppertine/Solosu) ([Coppertine](https://github.com/Coppertine)) - `git clone --recurse-submodules https://github.com/Coppertine/Solosu`~~ (Still not working)
 
 > [Tau](https://github.com/Altenhh/tau) ([Altenhh](https://github.com/Altenhh)) - `git clone --recurse-submodules https://github.com/Altenhh/tau`
+
+#Downloader version of this script here:
+> [Ruleset Installer (Downloader)](https://github.com/Hexality/osu-ruleset-installer)
