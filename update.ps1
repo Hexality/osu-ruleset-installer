@@ -23,6 +23,7 @@ echo "Ruleset updated." ;
 echo " " ;
 	Start-Sleep -s 2 ;
 
+<#
 echo "-==== Updating Cytosu ====-";
 	Start-Sleep -s 1 ;
 	cd .. ;
@@ -35,7 +36,8 @@ echo "Moving updated dll to Rulesets folder" ;
 	mv ".\osu.Game.Rulesets.Cytosu\bin\Release\netstandard2.1\osu.Game.Rulesets.Cytosu.dll" ..\..\rulesets\ -force ;
 echo "Ruleset updated." ;
 echo " " ;
-	Start-Sleep -s 2 ;
+	Start-Sleep -s 2 ; 
+#>
 
 echo "-==== Updating FlashVoltex ====-";
 	Start-Sleep -s 1 ;
@@ -79,6 +81,7 @@ echo "Ruleset updated." ;
 echo " " ;
 	Start-Sleep -s 2 ;
 
+<#
 echo "-==== Updating Hitokori ====-";
 	Start-Sleep -s 1 ;
 	cd .. ;
@@ -89,6 +92,19 @@ echo "Compiling ruleset" ;
 	dotnet publish -c Release --nologo --verbosity quiet ;
 echo "Moving updated dll to Rulesets folder" ;
 	mv ".\Hitokori\bin\Release\netstandard2.1\osu.Game.Rulesets.Hitokori.dll" ..\..\rulesets\ -force ;
+echo "Ruleset updated." ;
+echo " " ;
+	Start-Sleep -s 2 ;
+#>
+
+echo "-==== Updating Hitokori ====-";
+	Start-Sleep -s 1 ;
+	cd .. ;
+	cd Hitokori ;
+echo "Checking for Updates" ;
+    Invoke-WebRequest -Uri https://github.com/Flutterish/Hitokori/releases/latest/download/osu.Game.Rulesets.Hitokori.dll -OutFile ".\osu.Game.Rulesets.Hitokori.dll" ;
+echo "Moving updated dll to Rulesets folder" ;
+	mv ".\osu.Game.Rulesets.Hitokori.dll" ..\..\rulesets\ -force ;
 echo "Ruleset updated." ;
 echo " " ;
 	Start-Sleep -s 2 ;
@@ -177,6 +193,7 @@ echo "Ruleset updated." ;
 echo " " ;
 	Start-Sleep -s 2 ;
 
+<#
 echo "-==== Updating Solosu ====-";
 	Start-Sleep -s 1 ;
 	cd .. ;
@@ -190,6 +207,7 @@ echo "Moving updated dll to Rulesets folder" ;
 echo "Ruleset updated." ;
 echo " " ;
 	Start-Sleep -s 2 ;
+#>
 
 echo "-==== Updating Tau ====-";
 	Start-Sleep -s 1 ;

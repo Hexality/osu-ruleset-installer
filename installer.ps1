@@ -9,9 +9,11 @@ echo "-==== Downloading bosu ====-" ;
 	git clone --recurse-submodules https://github.com/EVAST9919/bosu -q ;
 echo " " ;
 
+<#
 echo "-==== Downloading Cytosu ====-" ;
 	git clone --recurse-submodules https://github.com/GSculerlor/Cytosu -q ;
 echo " " ;
+#>
 
 echo "-==== Downloading FlashVoltex ====-" ;
 	git clone --recurse-submodules https://github.com/stupefaction02/FlashVoltex -q ;
@@ -25,12 +27,24 @@ echo "-==== Downloading Hishigata ====-" ;
 	git clone --recurse-submodules https://github.com/LumpBloom7/hishigata -q ;
 echo " " ;
 
+<#
 echo "-==== Downloading Hitokori ====-" ;
 	git clone --recurse-submodules https://github.com/Flutterish/Hitokori -q ;
 echo " " ;
+#>
 
+echo "-==== Downloading Hitokori ====-" ;
+	mkdir Hitokori ;
+echo " " ;
+
+<#
 echo "-==== Downloading Karaoke ====-" ;
 	git clone --recurse-submodules https://github.com/karaoke-dev/karaoke -q ;
+echo " " ;
+#>
+
+echo "-==== Downloading Hitokori ====-" ;
+	mkdir Karaoke ;
 echo " " ;
 
 echo "-==== Downloading Mvis ====-" ;
@@ -53,9 +67,11 @@ echo "-==== Downloading Sentakki ====-" ;
 	git clone --recurse-submodules https://github.com/LumpBloom7/sentakki -q ;
 echo " " ;
 
+<#
 echo "-==== Downloading Solosu ====-" ;
 	git clone --recurse-submodules https://github.com/Coppertine/Solosu -q ;
 echo " " ;
+#>
 
 echo "-==== Downloading Tau ====-" ;
 	git clone --recurse-submodules https://github.com/Altenhh/tau -q ;
