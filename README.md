@@ -11,8 +11,8 @@
 
 > [Bosu](https://github.com/EVAST9919/bosu) ([EV4ST](https://github.com/EVAST9919)) - `git clone --recurse-submodules https://github.com/EVAST9919/bosu`
 
-> [Cytosu]() ([GSculerlor](https://github.com/GSculerlor)) - `git clone --recurse-submodules https://github.com/GSculerlor/Cytosu`
->> [Cytosu](https://github.com/GSculerlor/Cytosu/tree/dev-rework) ([GSculerlor](https://github.com/GSculerlor)) [Rework] - `git clone --recurse-submodules --branch dev-rework https://github.com/GSculerlor/Cytosu`
+> ~~[Cytosu]() ([GSculerlor](https://github.com/GSculerlor)) - `git clone --recurse-submodules https://github.com/GSculerlor/Cytosu`~~ (Both base and rework branch are not working)
+>> ~~[Cytosu](https://github.com/GSculerlor/Cytosu/tree/dev-rework) ([GSculerlor](https://github.com/GSculerlor)) [Rework] - `git clone --recurse-submodules --branch dev-rework https://github.com/GSculerlor/Cytosu`~~
 
 > [FlashVoltex](https://github.com/stupefaction02/FlashVoltex) ([StupeFaction](https://github.com/stupefaction02)) - `git clone --recurse-submodules https://github.com/stupefaction02/FlashVoltex`
 
@@ -34,6 +34,6 @@
 
 > [Sentakki](https://github.com/LumpBloom7/sentakki) ([LumpBloom7](https://github.com/LumpBloom7)) - `git clone --recurse-submodules https://github.com/LumpBloom7/sentakki`
 
-> [Solosu](https://github.com/Coppertine/Solosu) ([Coppertine](https://github.com/Coppertine)) - `git clone --recurse-submodules https://github.com/Coppertine/Solosu (Still not working)`
+> ~~[Solosu](https://github.com/Coppertine/Solosu) ([Coppertine](https://github.com/Coppertine)) - `git clone --recurse-submodules https://github.com/Coppertine/Solosu`~~ (Still not working)
 
 > [Tau](https://github.com/Altenhh/tau) ([Altenhh](https://github.com/Altenhh)) - `git clone --recurse-submodules https://github.com/Altenhh/tau`
