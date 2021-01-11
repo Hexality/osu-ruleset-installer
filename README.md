@@ -3,7 +3,7 @@
 
 >> **2. Move the 4 files to that folder.**
 
->> **3. Download and Install [.NET SDK](https://dotnet.microsoft.com/download)** and [Git](https://git-scm.com/downloads)
+>> **3. Download and Install [.NET SDK](https://dotnet.microsoft.com/download) and [Git](https://git-scm.com/downloads)**
 
 >> **4. Double-click the "Ruleset Installer" shortcut if it's your first time using the script.**
 
