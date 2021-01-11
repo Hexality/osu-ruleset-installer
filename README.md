@@ -1,6 +1,7 @@
 ## **Installer and updater script to be uploaded to the repo.**
 > **1. Create a folder called ruleset_updater inside %appdata%\osu!lazer (Windows)**
 > **2. Move the 4 files to that folder.**
+> **3. Download and Install [.NET SDK](https://dotnet.microsoft.com/download)
 > **3. Double-click the "Ruleset Installer" shortcut if it's your first time using the script.**
 > **4. Use the Update.ps1 when its needed.**
 >> **You can delete the Install.ps1 after using it for the first time if u want :D**
