@@ -9,11 +9,11 @@ echo "-==== Downloading bosu ====-" ;
 	git clone --recurse-submodules https://github.com/EVAST9919/bosu -q ;
 echo " " ;
 
-<#
+
 echo "-==== Downloading Cytosu ====-" ;
-	git clone --recurse-submodules https://github.com/GSculerlor/Cytosu -q ;
+	git clone --recurse-submodules --branch dev-rework https://github.com/GSculerlor/Cytosu -q ;
 echo " " ;
-#>
+
 
 echo "-==== Downloading FlashVoltex ====-" ;
 	git clone --recurse-submodules https://github.com/stupefaction02/FlashVoltex -q ;
@@ -43,7 +43,7 @@ echo "-==== Downloading Karaoke ====-" ;
 echo " " ;
 #>
 
-echo "-==== Downloading Hitokori ====-" ;
+echo "-==== Downloading Karaoke ====-" ;
 	mkdir Karaoke ;
 echo " " ;
 
