@@ -1,3 +1,5 @@
+_Warn: some people my have problems with .NET and GIT enviroments, If that happoens, pls run the script as Admin._
+
 ## **Installer and Updater (Compile commands).**
 >> **1. Create a folder called ruleset_updater inside %appdata%\osu!lazer (Windows)**
 
