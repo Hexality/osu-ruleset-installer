@@ -14,10 +14,15 @@ echo "-==== Downloading Cytosu ====-" ;
 	git clone --recurse-submodules --branch dev-rework https://github.com/GSculerlor/Cytosu -q ;
 echo " " ;
 
+echo "-==== Downloading DIVA ====-" ;
+	git clone --recurse-submodules https://github.com/Artemis-chan/osu-DIVA -q ;
+echo " " ;
 
+<#
 echo "-==== Downloading FlashVoltex ====-" ;
 	git clone --recurse-submodules https://github.com/stupefaction02/FlashVoltex -q ;
 echo " " ;
+#>
 
 echo "-==== Downloading Gamebosu ====-" ;
 	git clone --recurse-submodules https://github.com/Game4all/gamebosu -q ;
@@ -51,14 +56,6 @@ echo "-==== Downloading Mvis ====-" ;
 	git clone --recurse-submodules https://github.com/EVAST9919/lazer-m-vis -q ;
 echo " " ;
 
-echo "-==== Downloading Swing ====-" ;
-	git clone --recurse-submodules https://github.com/EVAST9919/lazer-swing -q ;
-echo " " ;
-
-echo "-==== Downloading DIVA ====-" ;
-	git clone --recurse-submodules https://github.com/Artemis-chan/osu-DIVA -q ;
-echo " " ;
-
 echo "-==== Downloading Rush ====-" ;
 	git clone --recurse-submodules https://github.com/swoolcock/rush -q ;
 echo " " ;
@@ -73,8 +70,16 @@ echo "-==== Downloading Solosu ====-" ;
 echo " " ;
 #>
 
+echo "-==== Downloading Swing ====-" ;
+	git clone --recurse-submodules https://github.com/EVAST9919/lazer-swing -q ;
+echo " " ;
+
 echo "-==== Downloading Tau ====-" ;
 	git clone --recurse-submodules https://github.com/Altenhh/tau -q ;
+echo " " ;
+
+echo "-==== Downloading Theater ====-" ;
+	git clone --recurse-submodules https://github.com/bdjeffyp/theater-osu -q ;
 echo " " ;
 
 mkdir Backup ;
