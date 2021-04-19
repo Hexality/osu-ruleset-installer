@@ -43,10 +43,12 @@ _Warn: some people my have problems with .NET and GIT enviroments, If that happo
 > [Sentakki](https://github.com/LumpBloom7/sentakki) ([LumpBloom7](https://github.com/LumpBloom7)) - `git clone --recurse-submodules https://github.com/LumpBloom7/sentakki`
 
 > ~~[Solosu](https://github.com/Coppertine/Solosu) ([Coppertine](https://github.com/Coppertine)) - `git clone --recurse-submodules https://github.com/Coppertine/Solosu`~~ (Still not working)
+ 
+> [Soyokaze](https://github.com/goodtrailer/soyokaze) ([goodtrailer](https://github.com/goodtrailer)) - `git clone --recurse-submodules https://github.com/goodtrailer/soyokaze`
 
 > [Tau](https://github.com/Altenhh/tau) ([Altenhh](https://github.com/Altenhh)) - `git clone --recurse-submodules https://github.com/Altenhh/tau`
 
-> [Theater](https://github.com/bdjeffyp/theater-osu) ([bdjeffyp](https://github.com/bdjeffyp)) - `git clone --recurse-submodules https://github.com/bdjeffyp/theater-osu` (Ignore copy errors, it will still work)
+> ~~[Theater](https://github.com/bdjeffyp/theater-osu) ([bdjeffyp](https://github.com/bdjeffyp)) - `git clone --recurse-submodules https://github.com/bdjeffyp/theater-osu` ~~(Still not working)
 
 # Downloader version of this script here:
 > [Ruleset Installer (Downloader)](https://github.com/Hexality/osu-ruleset-installer)
