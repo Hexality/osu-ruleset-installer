@@ -16,9 +16,12 @@ _Warn: some people may have problems with .NET and GIT enviroments, If that happ
 >> `git config --global user.name [your username]`
 >> `git config --global user.email [your email]`
 
-> **5. Double-click the "Ruleset Installer" shortcut if it's your first time using the script.**
+> **5. Run the .bat to set the execution policy to RemoteSigned and allow ps1 script to be run.
+>> _or run `Set-ExecutionPolicy -Scope CurrentUser RemoteSigned on Powershell [Admin]`
 
-> **6. Use the Update shortcut when its needed.**
+> **6. Double-click the "Ruleset Installer" shortcut if it's your first time using the script.**
+
+> **7. Use the Update shortcut when its needed.**
 
 >> **You can delete the .bat after using it for the first time if u want :D**
 
