@@ -39,6 +39,8 @@ _Warn: some people may have problems with .NET and GIT enviroments, If that happ
 
 > [Gamebosu](https://github.com/Game4all/gamebosu) ([Game4all](https://github.com/Game4all)) - `git clone --recurse-submodules https://github.com/Game4all/gamebosu`
 
+> ~~[osu!Guitar](https://github.com/klaviotarka/osu-gita) ([klaviotarka](https://github.com/klaviotarka)) - `git clone --recurse-submodules https://github.com/klaviotarka/osu-gita`~~
+
 > [Hashigata](https://github.com/LumpBloom7/hishigata) ([LumpBloom7](https://github.com/LumpBloom7)) - `git clone --recurse-submodules https://github.com/LumpBloom7/hishigata`
 
 > [Hitokori](https://github.com/Flutterish/Hitokori) ([Flutterish](https://github.com/Flutterish)) - `git clone --recurse-submodules https://github.com/Flutterish/Hitokori`
