@@ -1,17 +1,26 @@
+# Welcome to my codegore, here you'll have a shit coded but working installer and updater for all rulesets mentioned bellow.
+# Instructions bellow, please read carefully.
+
 _Warn: some people my have problems with .NET and GIT enviroments, If that happoens, pls run the script as Admin._
 
-## **Installer and Updater (Compile commands).**
->> **1. Create a folder called ruleset_updater inside %appdata%\osu!lazer (Windows)**
+## **Installer and Updater**
+> **1. Create a folder called ruleset_updater inside %appdata%\osu!lazer (Windows)**
 
->> **2. Move the 4 files to that folder.**
+> **2. Move the 5 files to that folder.**
+>> _Remember to download the right version that you want to use, the main is the `Ruleset Installer/Updater [Build]`. If you want to see the build output, specify `-v on` after `-mode dev` in the Ruleset Updater shortcut to show logs._
+>> ~~_Please note that the `Ruleset Installer/Updater [Downloader]` is only used if you don't want to build the rulesets but still want to have them updated (its incompatible with the build version.)_~~ Downloader not working yet, please follow the build instructions until I finish it.
 
->> **3. Download and Install [.NET SDK](https://dotnet.microsoft.com/download) and [Git](https://git-scm.com/downloads)**
+> **3. Download and Install [.NET SDK](https://dotnet.microsoft.com/download) and [Git](https://git-scm.com/downloads)**
 
->> **4. Double-click the "Ruleset Installer" shortcut if it's your first time using the script.**
+> **4. Specify your git account by setting you username and email:
+>> `git config --global user.name [your username]`
+>> `git config --global user.email [your email]`
 
->> **5. Use the Update shortcut when its needed.**
+> **5. Double-click the "Ruleset Installer" shortcut if it's your first time using the script.**
 
->> **You can delete the Install.ps1 after using it for the first time if u want :D**
+> **6. Use the Update shortcut when its needed.**
+
+>> **You can delete the .bat after using it for the first time if u want :D**
 
 
 ### A list of osu!lazer rulesets: (Included on the script)
