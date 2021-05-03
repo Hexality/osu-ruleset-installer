@@ -32,8 +32,8 @@ _Warn: some people may have problems with .NET and GIT enviroments, If that happ
 
 > [Bosu](https://github.com/EVAST9919/bosu) ([EV4ST](https://github.com/EVAST9919)) - `git clone --recurse-submodules https://github.com/EVAST9919/bosu`
 
-> [Cytosu]() ([GSculerlor](https://github.com/GSculerlor)) - `git clone --recurse-submodules https://github.com/GSculerlor/Cytosu` (rework branch not working)
->> ~~[Cytosu](https://github.com/GSculerlor/Cytosu/tree/dev-rework) ([GSculerlor](https://github.com/GSculerlor)) [Rework] - `git clone --recurse-submodules --branch dev-rework https://github.com/GSculerlor/Cytosu`~~
+~~> [Cytosu]() ([GSculerlor](https://github.com/GSculerlor)) - `git clone --recurse-submodules https://github.com/GSculerlor/Cytosu`~~
+>> [Cytosu](https://github.com/GSculerlor/Cytosu/tree/dev-rework) ([GSculerlor](https://github.com/GSculerlor)) [Rework] - `git clone --recurse-submodules --branch dev-rework https://github.com/GSculerlor/Cytosu`
 
 > ~~[FlashVoltex](https://github.com/stupefaction02/FlashVoltex) ([StupeFaction](https://github.com/stupefaction02)) - `git clone --recurse-submodules https://github.com/stupefaction02/FlashVoltex`~~ (osu! update killed it, I'll leave it disabled here for now)
 
