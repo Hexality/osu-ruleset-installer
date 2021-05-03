@@ -27,7 +27,7 @@ _Warn: some people may have problems with .NET and GIT enviroments, If that happ
 >> **You can delete the .bat after using it for the first time if u want :D**
 
 
-### A list of osu!lazer rulesets: (Included on the script)
+### A list of osu!lazer rulesets: (Included on the script) [Dashed = borked]
 
 
 > [Bosu](https://github.com/EVAST9919/bosu) ([EV4ST](https://github.com/EVAST9919)) - `git clone --recurse-submodules https://github.com/EVAST9919/bosu`
