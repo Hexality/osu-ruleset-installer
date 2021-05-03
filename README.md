@@ -1,7 +1,7 @@
 # Welcome to my codegore, here you'll have a shit coded but working installer and updater for all rulesets mentioned bellow.
-# Instructions bellow, please read carefully.
+# Instructions, please read carefully.
 
-_Warn: some people my have problems with .NET and GIT enviroments, If that happoens, pls run the script as Admin._
+_Warn: some people may have problems with .NET and GIT enviroments, If that happoens, pls run the script as Admin._
 
 ## **Installer and Updater**
 > **1. Create a folder called ruleset_updater inside %appdata%\osu!lazer (Windows)**
