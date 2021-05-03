@@ -63,5 +63,5 @@ _Warn: some people may have problems with .NET and GIT enviroments, If that happ
 
 > ~~[Theater](https://github.com/bdjeffyp/theater-osu) ([bdjeffyp](https://github.com/bdjeffyp)) - `git clone --recurse-submodules https://github.com/bdjeffyp/theater-osu`~~ (Still not working)
 
-# Downloader version of this script here:
-> [Ruleset Installer (Downloader)](https://github.com/Hexality/osu-ruleset-installer)
+# ols downloader version of this script here:
+> [Ruleset Installer (Downloader)][Archived](https://github.com/Hexality/osu-ruleset-installer)
