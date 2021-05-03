@@ -61,7 +61,7 @@ _Warn: some people may have problems with .NET and GIT enviroments, If that happ
 
 > [Tau](https://github.com/Altenhh/tau) ([Altenhh](https://github.com/Altenhh)) - `git clone --recurse-submodules https://github.com/Altenhh/tau`
 
-> ~~[Theater](https://github.com/bdjeffyp/theater-osu) ([bdjeffyp](https://github.com/bdjeffyp)) - `git clone --recurse-submodules https://github.com/bdjeffyp/theater-osu` ~ (Still not working)
+> ~~[Theater](https://github.com/bdjeffyp/theater-osu) ([bdjeffyp](https://github.com/bdjeffyp)) - `git clone --recurse-submodules https://github.com/bdjeffyp/theater-osu`~~ (Still not working)
 
 # Downloader version of this script here:
 > [Ruleset Installer (Downloader)](https://github.com/Hexality/osu-ruleset-installer)
