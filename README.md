@@ -1,5 +1,7 @@
-# Welcome to my codegore, here you'll have a shit coded but working installer and updater for all rulesets mentioned bellow.
-# Instructions, please read carefully.
+# Yes, while this has all capacity to work on every single computer, it isn't what actually happens so keep in mind, if it doesn't work on your computer, please leave a issue showing the error so this way I can help fixing this messy shit of code that I made.
+
+## Welcome to my codegore, here you'll have a shit coded but working installer and updater for all rulesets mentioned bellow.
+## Instructions, please read carefully.
 
 _Warn: some people may have problems with .NET and GIT enviroments, If that happens, pls run the script as Admin._
 
