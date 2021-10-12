@@ -1,4 +1,4 @@
-# Yes, while this has all capacity to work on every single computer, it isn't what actually happens so keep in mind, if it doesn't work on your computer, please leave a issue showing the error so this way I can help fixing this messy shit of code that I made.
+# Yes, while this has all capacity to work on every single computer, it isn't what actually happens so keep in mind, if it doesn't work on your computer, please leave a issue showing the error so this way you can help me fixing this messy shit of code that I made.
 
 ## Welcome to my codegore, here you'll have a shit coded but working installer and updater for all rulesets mentioned bellow.
 ## Instructions, please read carefully.
@@ -49,6 +49,8 @@ _Warn: some people may have problems with .NET and GIT enviroments, If that happ
 
 > [Karaoke](https://github.com/karaoke-dev/karaoke) ([Karaoke-dev](https://github.com/karaoke-dev)) - `git clone --recurse-submodules https://github.com/karaoke-dev/karaoke`
 
+> [osu!Lines](https://github.com/QiuFeng54321/osu-lines) ([QiuFeng](https://github.com/QiuFeng54321)) - `git clone --recurse-submodules https://github.com/QiuFeng54321/osu-lines`
+
 > [osu!lazer Music Visualizer](https://github.com/EVAST9919/lazer-m-vis) ([EV4ST](https://github.com/EVAST9919)) - `git clone --recurse-submodules https://github.com/EVAST9919/lazer-m-vis`
 
 > [Swing](https://github.com/EVAST9919/lazer-swing) ([EV4ST](https://github.com/EVAST9919)) - `git clone --recurse-submodules https://github.com/EVAST9919/lazer-swing`
@@ -62,6 +64,8 @@ _Warn: some people may have problems with .NET and GIT enviroments, If that happ
 > ~~[Solosu](https://github.com/Coppertine/Solosu) ([Coppertine](https://github.com/Coppertine)) - `git clone --recurse-submodules https://github.com/Coppertine/Solosu`~~ (Still not working)
  
 > [Soyokaze](https://github.com/goodtrailer/soyokaze) ([goodtrailer](https://github.com/goodtrailer)) - `git clone --recurse-submodules https://github.com/goodtrailer/soyokaze`
+
+> ~~[Squares](https://github.com/hwabis/Squares) ([hwabis](https://github.com/hwabis)) - `git clone --recurse-submodules https://github.com/hwabis/Squares`~~
 
 > [Tau](https://github.com/Altenhh/tau) ([Altenhh](https://github.com/Altenhh)) - `git clone --recurse-submodules https://github.com/Altenhh/tau`
 
