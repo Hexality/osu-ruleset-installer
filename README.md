@@ -49,7 +49,7 @@ _Warn: some people may have problems with .NET and GIT enviroments, If that happ
 
 > [Karaoke](https://github.com/karaoke-dev/karaoke) ([Karaoke-dev](https://github.com/karaoke-dev)) - `git clone --recurse-submodules https://github.com/karaoke-dev/karaoke`
 
-> [osu!Lines](https://github.com/QiuFeng54321/osu-lines) ([QiuFeng](https://github.com/QiuFeng54321)) - `git clone --recurse-submodules https://github.com/QiuFeng54321/osu-lines`
+> ~~[osu!Lines](https://github.com/QiuFeng54321/osu-lines) ([QiuFeng](https://github.com/QiuFeng54321)) - `git clone --recurse-submodules https://github.com/QiuFeng54321/osu-lines`~~
 
 > [osu!lazer Music Visualizer](https://github.com/EVAST9919/lazer-m-vis) ([EV4ST](https://github.com/EVAST9919)) - `git clone --recurse-submodules https://github.com/EVAST9919/lazer-m-vis`
 
